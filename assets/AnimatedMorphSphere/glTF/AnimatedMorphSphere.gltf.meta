@@ -1,0 +1,112 @@
+{
+  "ver": "1.3.16",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "3571242e-35d8-4656-8085-a73d20befcac",
+  "files": [],
+  "subMetas": {
+    "825ed": {
+      "ver": "1.0.7",
+      "importer": "gltf-mesh",
+      "uuid": "3571242e-35d8-4656-8085-a73d20befcac@825ed",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "825ed",
+      "name": "Sphere.mesh"
+    },
+    "f3a36": {
+      "ver": "1.0.13",
+      "importer": "gltf-animation",
+      "uuid": "3571242e-35d8-4656-8085-a73d20befcac@f3a36",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 7.1999945640563965
+        },
+        "events": []
+      },
+      "displayName": "",
+      "id": "f3a36",
+      "name": "Globe.animation"
+    },
+    "42d80": {
+      "ver": "1.0.12",
+      "importer": "gltf-material",
+      "uuid": "3571242e-35d8-4656-8085-a73d20befcac@42d80",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "42d80",
+      "name": "No Name.material"
+    },
+    "6a159": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "uuid": "3571242e-35d8-4656-8085-a73d20befcac@6a159",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "6a159",
+      "name": "AnimatedMorphSphere.prefab"
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Globe",
+        "duration": 7.1999945640563965,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Globe",
+            "from": 0,
+            "to": 7.1999945640563965
+          }
+        ]
+      }
+    ],
+    "redirect": "3571242e-35d8-4656-8085-a73d20befcac@6a159",
+    "assetFinder": {
+      "meshes": [
+        "3571242e-35d8-4656-8085-a73d20befcac@825ed"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3571242e-35d8-4656-8085-a73d20befcac@42d80"
+      ],
+      "scenes": [
+        "3571242e-35d8-4656-8085-a73d20befcac@6a159"
+      ]
+    }
+  }
+}

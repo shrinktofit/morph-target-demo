@@ -1,0 +1,112 @@
+{
+  "ver": "1.3.16",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "9b685e53-26bb-47f9-9112-ca8e2f5a06a6",
+  "files": [],
+  "subMetas": {
+    "2f6d1": {
+      "ver": "1.0.7",
+      "importer": "gltf-mesh",
+      "uuid": "9b685e53-26bb-47f9-9112-ca8e2f5a06a6@2f6d1",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "2f6d1",
+      "name": "Cube.mesh"
+    },
+    "4e621": {
+      "ver": "1.0.13",
+      "importer": "gltf-animation",
+      "uuid": "9b685e53-26bb-47f9-9112-ca8e2f5a06a6@4e621",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.199997425079346
+        },
+        "events": []
+      },
+      "displayName": "",
+      "id": "4e621",
+      "name": "Square.animation"
+    },
+    "b4e6b": {
+      "ver": "1.0.12",
+      "importer": "gltf-material",
+      "uuid": "9b685e53-26bb-47f9-9112-ca8e2f5a06a6@b4e6b",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "b4e6b",
+      "name": "Material.material"
+    },
+    "cdf3a": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "uuid": "9b685e53-26bb-47f9-9112-ca8e2f5a06a6@cdf3a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "cdf3a",
+      "name": "AnimatedMorphCube.prefab"
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Square",
+        "duration": 4.199997425079346,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Square",
+            "from": 0,
+            "to": 4.199997425079346
+          }
+        ]
+      }
+    ],
+    "redirect": "9b685e53-26bb-47f9-9112-ca8e2f5a06a6@cdf3a",
+    "assetFinder": {
+      "meshes": [
+        "9b685e53-26bb-47f9-9112-ca8e2f5a06a6@2f6d1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9b685e53-26bb-47f9-9112-ca8e2f5a06a6@b4e6b"
+      ],
+      "scenes": [
+        "9b685e53-26bb-47f9-9112-ca8e2f5a06a6@cdf3a"
+      ]
+    }
+  }
+}

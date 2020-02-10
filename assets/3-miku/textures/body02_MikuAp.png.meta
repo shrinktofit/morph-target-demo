@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.16",
+  "importer": "image",
+  "imported": true,
+  "uuid": "310bd6e9-68b1-4b81-aab7-e03aef7791a3",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "310bd6e9-68b1-4b81-aab7-e03aef7791a3@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "310bd6e9-68b1-4b81-aab7-e03aef7791a3"
+      },
+      "displayName": "body02_MikuAp",
+      "id": "6c48a",
+      "name": "texture"
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "310bd6e9-68b1-4b81-aab7-e03aef7791a3@6c48a"
+  }
+}

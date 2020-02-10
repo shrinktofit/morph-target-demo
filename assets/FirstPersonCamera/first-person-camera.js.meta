@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.13",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "427316fb-706b-456a-9425-728e58be3829",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/FirstPersonCamera/first-person-camera.js"
+  }
+}
